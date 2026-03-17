@@ -5,23 +5,28 @@ Color was prevalent in the Medieval period.  This is a collection of digital col
 
 ## Color List
 
-The colors (currently 49) are presented in sections ordered by hue, with alphabetized entries.  Each entry consists of a name, RGB hexadecimal triplets, and CMYK integers.
+The colors (currently 59) are presented in sections ordered by hue, with alphabetized entries.  Each entry consists of a name, RGB hexadecimal triplets, and CMYK integers.
 
 ### Red
 * `Carmine           #960018    (  0, 100,  84,  41)`
 * `Crimson           #DC143C    (  0, 100, 100,  40)`
 * `Dragon's Blood    #861717    (  0,  83,  83,  47)`
+* `Henna Red         #6e3530    (  0,  52,  56,  57)`
 * `Lac (Scarlet)     #FF2400    (  0,  86, 100,   0)`
 * `Madder            #E32636    (  0,  83,  76,  11)`
 * `Red Lead          #BF3B26    ( 18,  90,  99,   7)`
 * `Red Ochre         #9A150E    (  0,  86,  91,  40)`
 * `Rust              #985717    (  0,  43,  85,  40)`
+* `Venetian Red      #C80815    (  0,  96,  90,  22)`
 * `Vermilion         #E34234    (  0,  84,  71,   0)`
 
 ### Orange
 * `Buckthorn         #EF9548    (  0,  38,  70,   6)`
 * `Gamboge           #E49B0F    (  0,  32,  93,  11)`
+* `Henna             #AF7F29    (  0,  27,  77,  31)`
+* `Marigold          #EAA221    (  0,  31,  86,   8)`
 * `Ochre             #CC7722    (  0,  42,  83,  20)`
+* `Realgar           #FC7903    (  0,  52,  99,   1)`
 
 ### Yellow
 * `Massicot          #FFE64A    (  2,   5,  82,   0)`
@@ -36,7 +41,9 @@ The colors (currently 49) are presented in sections ordered by hue, with alphabe
 * `China Green       #507D2A    ( 72,  30, 100,  16)`
 * `Cobalt Green      #3D9140    ( 58,   0,  56,  43)`
 * `Green Earth       #DADD98    (  1,   0,  31,  13)`
+* `Iris Green        #A2B978    ( 12,   0,  35,  27)`
 * `Malachite         #1FA055    ( 81,   0,  47,  37)`
+* `Robin Hood Green  #04460e    ( 94,   0,  80,  73)`
 * `Verdigris         #43B3AE    ( 63,   0,   3,  30)`
 
 ### Blue
@@ -51,6 +58,7 @@ The colors (currently 49) are presented in sections ordered by hue, with alphabe
 
 ### Purple
 * `Indigo            #4B0082    ( 42, 100,   0,  49)`
+* `Orchil            #755E84    ( 11,  29,   0,  48)`
 * `Turnsole          #DF73FF    ( 13,  55,   0,   0)`
 * `Tyrian Purple     #66023C    (  0,  98,  41,   6)`
 * `Verzino           #AB249A    ( 37,  96,   0,   0)`
@@ -68,8 +76,10 @@ The colors (currently 49) are presented in sections ordered by hue, with alphabe
 ### White
 * `Chalk             #F6F4F1    (  0,   1,   2,   4)`
 * `White Lead        #F0EBE5    (  5,   5,   8,   0)`
+* `White             #FFFFFF    (  0,   0,   0,   0)`
 
 ### Black
+* `Black             #000000    (  0,   0,   0, 100)`
 * `Carbon            #130E0A    (  0,  26,  47,  93)`
 * `Aged Iron Gall    #463F3E    (  0,  10,  11,  73)`
 * `Iron Gall         #18161B    ( 11,  19,   0,  89)`
@@ -78,10 +88,10 @@ The colors (currently 49) are presented in sections ordered by hue, with alphabe
 
 Two variants of the palette are available in each format.
 
-* Medieval: The base 49 colors
-* Medieval With Tints: The base colors each accompanied by eight additional values ranging from 10% to 90% luminosity.
+* Medieval: The base 59 colors
+* Medieval With Tints: The base colors each accompanied by nine additional values ranging from 10% to 90% luminosity.
 
-Each formats is generated from color_list.txt.
+Each format is generated from color_list.txt.
 
 ### GIMP Palette (.gpl)
 

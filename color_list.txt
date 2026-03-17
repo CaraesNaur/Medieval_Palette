@@ -49,8 +49,8 @@ Blue
 	Woad			#56739A		(44, 25, 0, 40)
 
 Purple
-	Orchil			#755E84		(11, 29, 0, 48)
 	Indigo			#4B0082		(42, 100, 0, 49)
+	Orchil			#755E84		(11, 29, 0, 48)
 	Turnsole		#DF73FF		(13, 55, 0, 0)
 	Tyrian Purple	#66023C		(0, 98, 41, 6)
 	Verzino			#AB249A		(37, 96, 0, 0)
